@@ -1,2 +1,0 @@
-mongod --config ./mongod.conf --port 27020 &
-mongo --port 27020
