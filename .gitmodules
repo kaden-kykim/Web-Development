@@ -1,0 +1,6 @@
+[submodule "Backend/workspace/DeployingDemo"]
+	path = Backend/workspace/DeployingDemo
+	url = https://git.heroku.com/secret-brook-49132.git
+[submodule "Backend/workspace/YelpCamp/deploy_v13"]
+	path = Backend/workspace/YelpCamp/deploy_v13
+	url = https://git.heroku.com/rocky-everglades-63904.git

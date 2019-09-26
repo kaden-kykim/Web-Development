@@ -1,0 +1,31 @@
+h1 {
+	color: rgba(0, 200, 100, .8);
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 2 px solid rgb(255, 100, 80);
+}
+
+/*width
+color
+style*/
+
+h4 {
+	background: rgb(255, 100, 80);
+}
+
+body {
+	background: pink;
+	/*background: url(https://c8.alamy.com/comp/M151WT/vector-green-pattern-for-eco-logo-or-sign-vegan-background-for-cafe-M151WT.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
+
+/*li {
+	color: green;
+}
+
+h4 {
+	color: purple;
+}*/
